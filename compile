@@ -1,4 +1,4 @@
 #!/bin/bash
-g++ $1
+gcc $1
 ./a.out
 rm a.out
